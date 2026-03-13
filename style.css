@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(90, 93, 252, 0.5);
+}
+h1 {
+  color: rgba(0, 14, 206, 0.966);
+}
+h3{
+    color: hsl(162, 100%, 82%);
+}
+h4{
+    color: hsl(180, 95%, 78%);
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-variant:unset;
+    font-size: 35px;
+}
